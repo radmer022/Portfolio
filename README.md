@@ -1,2 +1,2 @@
 # Portfolio
-file:///C:/Users/qqs_a/Downloads/portfolio_1.html
+Bilingual portfolio website for product strategy, strategic design, and service experience.
